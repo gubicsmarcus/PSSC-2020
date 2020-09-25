@@ -1,0 +1,19 @@
+Functionalitatile aplicatiei StackOverflow:
+	Antetul aplicatiei incepe cu butonul de tip meniu care enumera cateva functii categorizate dupa "PUBLIC" si "FIND A JOB"."Public" implica functii precum "Stack Overflow" unde putem vedea toate 
+intrebarile si raspunsurile date de utilizatorii aplicatiei, urmand functia "Tags" unde ne putem adauga filtre pentru a primi raspunsuri cat mai exacte la o cautare prin cuvinte cheie, iar ultima functie
+ "Public" o reprezinta "Users" unde la fel putem aduga filtre la cautarea noastra dupa un anumit user cu un scor cat mai mare. Categoria "FIND A JOB" cuprinde functia de "Jobs" care ne arata toate ofertele
+de job-rui dupa filtrul de cautare ales, iar "Companies" ne ofera o descriere succinta a mai multor companii in functie de preferinta de cautare.
+	Antetul aplicatiei continua cu prezentarea logo-ului foarte sugestiv care are functionalitatea de Home(pagina principala), urmand apoi functia "About" care descrie istoricul si scopul site-ului
+StackOverflow. "Products" functie de tip meniu care enumera mai multe articole de interes pentru programatori si nu numai."Search" reprezinta o caseta de tip text(input data) avand ca functionalitate  
+cautarea si de trimiterea utilizatorului catre o pagina cu diferite raspunsuri relativ concrete la intrebarea introdusa in caseta, fara a fi necesara logarea pe site.Butonul de "Log in" reprezinta functia 
+de logare a utilizatorilor pe aplicatia StackOverflow.Pentru a te putea loga ai nevoie de un cont existent, iar daca nu detinem un astfel de cont butonul "Sign up" ne va ajuta prin functia sa de creare 
+a unui cont.StackOverflow ne mai ofera posibilitatea de a ne loga cu un cont existent de Google/GitHub/Facebook.
+	Pagina principala mai cuprinde doua butoane "For developers" si "For businesses" care ne descriu functiile celor doua tipuri de utilizatori."For developers" ne trimite catre cele trei subcategori 
+dedicate conturilor standard "Public Q&A", "Private Q&A", "Browse jobs".Sectiunea "Public Q&A" este prevazuta cu butonul "Browse questions" de unde putem vedea cele mai recente intrebari aduagate, pentru 
+care avem mai multe optiuni de filtrare precum Newest", "Unanswered" etc. ."Private Q&A" este dedicat pentru anumite echipe de programatori, care au nevoie de un flux de informatii continu pentru
+ dezvoltarea sau finalizarea unui proiect, primele 30 de zile find gratuite pentru acomodare.Ultima subcategorie "Browse jobs" ofera posibilitatea oricarui utilizator de a cauta un loc de munca in functie de
+cunostiinte si preferinte, avand o varitetate larga de companii cu un renume.
+	A doua categorie "For businesses" ne trimite catre aceeasi subcategorie "Private Q&A" dedicata firmelor cu mai multe echipe de dezvoltare, venind la alegere cu  3 pachete (Basic, Business si 
+Enterprise)."Talent solutions" este a doua subcategorie dedicata celor care vor sa formeze o echipa si sunt in cautare de programatori cu cunostiinte tehnice bune."Advertising platform" ultima subcategorie
+folosita de companii pentru a investii in marketing.   
+	 
