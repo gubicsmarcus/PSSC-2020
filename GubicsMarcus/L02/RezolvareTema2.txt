@@ -1,0 +1,19 @@
+Business events:
+	- Create account (user)
+	- Select the category you want to browse (user)
+	- Find answer for the question you have (user)
+	- Tweak your question (user)
+	- Delete your question (user)
+	- Ask a question (user)
+	- Answer a question if you know the answer (user)
+ 	- Tweak your answer (user)
+	- Delete your answer (user)
+	- User notification for new answers or questions (StackOverflow application)
+	- Search for a job(user)
+	- Set an alert for a job that meets your expectations (user)
+	
+Context:
+	- Login context
+	- Question context
+	- Notification context
+	- Job-Search context
